@@ -29,7 +29,7 @@ public class MainActivity extends AppCompatActivity {
     private String username;
     private String password;
     private ProgressDialog pDialog;
-    private String login_url = "https://chandansatyendraprasad.000webhostapp.com/logindemo/login.php";
+     private String login_url = "http://swapnilvahile.orgfree.com/Reg/login.php";
     private SessionHandler session;
 
     @Override
